@@ -81,7 +81,7 @@
 				},
 				"Runtime": "nodejs12.x",
 				"Timeout": "25",
-				"ReservedConcurrentExecutions": "10",
+				"ReservedConcurrentExecutions": "2",
 				"Code": {
 					"S3Bucket": "amplify-photoshare-master-183417-deployment",
 					"S3Key": "amplify-builds/S3Trigger984fb593-4a786c424331774d6135-build.zip"
